@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRYrvSGGL5PdBpiNJTQyqa67fdK9C/OGn5d+ramzzNnYXOMEVlbNZN3F+qUhn9T9Mt48FWPvnddFsKQlYf+9RA==",
+  "success": true,
+  "projectFilePath": "D:\\ORION\\iSym\\sprint 2\\CefShart Tests\\CefSharp .Net Core -  Windows Forms\\CefSharp .Net Core -  Windows Forms\\CefSharp .Net Core -  Windows Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rocchi\\.nuget\\packages\\cefsharp.common.netcore\\88.2.90\\cefsharp.common.netcore.88.2.90.nupkg.sha512",
+    "C:\\Users\\rocchi\\.nuget\\packages\\cefsharp.winforms.netcore\\88.2.90\\cefsharp.winforms.netcore.88.2.90.nupkg.sha512",
+    "C:\\Users\\rocchi\\.nuget\\packages\\chromiumembeddedframework.runtime\\88.2.9\\chromiumembeddedframework.runtime.88.2.9.nupkg.sha512",
+    "C:\\Users\\rocchi\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x64\\88.2.9\\chromiumembeddedframework.runtime.win-x64.88.2.9.nupkg.sha512",
+    "C:\\Users\\rocchi\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x86\\88.2.9\\chromiumembeddedframework.runtime.win-x86.88.2.9.nupkg.sha512",
+    "C:\\Users\\rocchi\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\rocchi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
